@@ -25,12 +25,12 @@ body {
   background: #23424a;
   color: white;
 
-  width: 80%;
+  width: min(80%, 1000px);
   margin: 0 auto;
 
   padding: 2em;
 }
 
 .intro-content {
-  width: 50%;
+  width: min(50%, 1000px);
 }
